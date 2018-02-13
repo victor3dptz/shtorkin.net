@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Host: dogecoin.victor3d.com.br
